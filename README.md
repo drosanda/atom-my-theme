@@ -2,6 +2,9 @@
 
 This only quick bare project for my atom theme since the current syntax theme doesnt show very well :D
 
+![atom-my-theme](https://user-images.githubusercontent.com/3834841/157065031-71efc93b-32dc-4dcd-b882-e5467804ec65.png)
+
+
 ## How to install
 
 1. Clone this repo into atom packages
